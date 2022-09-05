@@ -1,0 +1,7 @@
+Azure virtual machines are one of several types of on-demand, scalable computing resources that Azure offers. 
+Typically, you choose a virtual machine when you need more control over the computing environment than the other choices offer.
+
+Scale sets:
+
+Microsoft Azure VM Scale Sets are groups of individual virtual machines (VMs) within the Microsoft Azure public cloud that information technology (IT) administrators can configure and manage as a single unit. 
+Administrators can use Azure VM Scale Sets to deploy complete services, rather than duplicate the same VMs.
